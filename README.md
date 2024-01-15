@@ -1,4 +1,4 @@
-cat WELCOME.md
+cat WELCOME.md \n
 solutions = /home/level
 
 # Level0
