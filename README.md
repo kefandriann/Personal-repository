@@ -1,9 +1,9 @@
-cat WELCOME.md \n
-solutions = /home/level
+-cat WELCOME.md
+-solutions = /home/level
 
 # Level0
-/home/level/00_welcome
-cat README.md
-"bitwarrior"
+-/home/level/00_welcome
+-cat README.md
+-"bitwarrior"
 
 # level1
